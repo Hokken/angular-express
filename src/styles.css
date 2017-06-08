@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+  font-size: 100%;
+  line-height: 1.6875;
+}
+
+
+.container-fluid{
+  margin:0px;
+}
+
+.col-sm-12 {
+  padding:0px
+}
+
+
